@@ -1,6 +1,5 @@
 body {font-family: Arial;}
 
-div {width: 300px;
-  border: 15px solid black;
-  padding: 5px;
-  margin: 2px;}
+div {border: 2px solid black;
+margin: 0 auto;
+padding: 1em;}
